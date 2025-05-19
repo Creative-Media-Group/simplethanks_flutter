@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ## Signing
-For signing Android App create `key.properties`-File with this content:
+For signing Android App create `key.properties`-file with this content in `android`-folder:
 ````bash
 storePassword=<password-from-previous-step>
 keyPassword=<password-from-previous-step>

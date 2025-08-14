@@ -1,4 +1,4 @@
-package de.cmg.simplethanks
+package com.example.simplethanks
 
 import io.flutter.embedding.android.FlutterActivity
 

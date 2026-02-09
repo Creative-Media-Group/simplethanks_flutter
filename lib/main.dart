@@ -13,6 +13,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      theme: ThemeData(),
+      themeMode: ThemeMode.system,
+      darkTheme: ThemeData.dark(),
       home: Scaffold(
         appBar: AppBar(title: Text("Simple Thanks")),
         body: Center(
